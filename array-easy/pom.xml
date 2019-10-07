@@ -9,5 +9,7 @@
   	<module>remove-duplicates-from-sorted-array</module>
   	<module>remove-element</module>
   	<module>search-insert-position</module>
+  	<module>maximum-subarray</module>
+  	<module>plus-one</module>
   </modules>
 </project>
