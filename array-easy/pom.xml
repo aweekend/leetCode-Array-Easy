@@ -7,5 +7,6 @@
   <modules>
   	<module>two-sum</module>
   	<module>remove-duplicates-from-sorted-array</module>
+  	<module>remove-element</module>
   </modules>
 </project>
