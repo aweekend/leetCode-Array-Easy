@@ -13,5 +13,6 @@
   	<module>plus-one</module>
   	<module>merge-sorted-array</module>
   	<module>pascals-triangle</module>
+  	<module>pascals-triangle-ii</module>
   </modules>
 </project>
