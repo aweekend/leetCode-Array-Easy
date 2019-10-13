@@ -11,5 +11,6 @@
   	<module>search-insert-position</module>
   	<module>maximum-subarray</module>
   	<module>plus-one</module>
+  	<module>merge-sorted-array</module>
   </modules>
 </project>
