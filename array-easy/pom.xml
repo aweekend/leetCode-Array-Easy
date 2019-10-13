@@ -12,5 +12,6 @@
   	<module>maximum-subarray</module>
   	<module>plus-one</module>
   	<module>merge-sorted-array</module>
+  	<module>pascals-triangle</module>
   </modules>
 </project>
