@@ -8,8 +8,8 @@ public class Solution {
 	}
 	
 	 public int maxSubArray(int[] nums) {
-		 int tmp = nums[0];                       //设tmp为连续子序列的和，初始值为数组第一个数字
-		 int ans = tmp;                           //ans为最大连续子序列的和
+		 int tmp = 0;                                  //设tmp为连续子序列的和，初始值设为0，使tmp+=nums[0]之后为nums[0]
+		 int ans = nums[0];                           //ans为最大连续子序列的和,初始值设为nums[0]
 		 for(int i=0;i<nums.length;i++){
 			 if(tmp>0){                          //如果tmp大于0，则继续向后一个数字相加时，对后一个数字有增益效果，否则不如直接使用后一个数字开始
 				 tmp +=nums[i];
